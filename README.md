@@ -1,5 +1,5 @@
 <h3 align="center">
-  ¡Bienvenido al perfil de <strong>Marc Morla Maimó</strong>!
+ ¡Hola! Soy <strong>Marc Morla Maimó</strong></h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -77,7 +77,7 @@
 ---
 
 ### ✍️ Frase que me representa
-> “El mejor aprendizaje viene de romper cosas, entender por qué fallaron y volver a construirlas mejor.”
+> “El código perfecto no existe, pero aprender a mejorarlo cada día es lo que lo hace interesante.”
 
 ---
 
