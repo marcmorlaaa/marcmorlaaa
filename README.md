@@ -9,9 +9,9 @@
 
 ## 🚀 Sobre mí
 
-- 🧠 Interesado en **programación de bajo nivel**, **backend** y **sistemas operativos**.  
-- 💻 Me gusta trabajar con **C**, **Java** y **Python**, tanto para proyectos académicos como personales.  
-- 🐧 Uso **Linux** como entorno principal y disfruto explorando sus herramientas y comandos.  
+- 🧠 Interesado en **Inteligencia Artificial**.  
+- 💻 Me gusta trabajar con **Java** y **Python**.
+- 🐧 Uso **Linux** como entorno secundario y disfruto explorando sus herramientas y comandos.  
 - 🤝 Siempre con ganas de colaborar y compartir conocimientos con otros desarrolladores.  
 - 🌱 Aprendiendo constantemente, sin miedo a romper cosas (¡así es como se aprende de verdad!).
 
@@ -41,7 +41,7 @@
 
 ## 📚 Actualmente aprendiendo
 
-- 🧵 **Programación concurrente y gestión de procesos** en sistemas operativos.  
+- 🧵 **Programación concurrente y gestión de procesos** en Java, C, ADA,...  
 - ⚙️ **Estructuras de datos y algoritmos** en Java y C.  
 - 🗄️ **Bases de datos relacionales** con SQL.  
 - 🤖 Introducción a la **Inteligencia Artificial** y agentes inteligentes con Python.  
