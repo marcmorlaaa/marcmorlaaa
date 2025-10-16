@@ -89,3 +89,7 @@
 <p align="center">
   <em>"El código perfecto no existe, pero aprender a mejorarlo cada día es lo que lo hace interesante."</em>
 </p>
+
+<p align="center">
+  <img src="https://readme-quote.vercel.app/api?quote=El%20código%20perfecto%20no%20existe%2C%20pero%20aprender%20a%20mejorarlo%20cada%20día%20es%20lo%20que%20lo%20hace%20interesante.&author=Marc%20Morla%20Maimó&theme=dark" />
+</p>
