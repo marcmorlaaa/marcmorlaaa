@@ -1,6 +1,5 @@
 <h3 align="center">
- ¡Hola! Soy <strong>Marc Morla Maimó</strong></h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ ¡Hola! Soy <strong>Marc Morla Maimó</strong></h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
