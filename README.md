@@ -77,7 +77,6 @@
 ## 📫 Contacto
 
 - ✉️ **Correo:** [marcmorlamaimo@gmail.com](mailto:marcmorlamaimo@gmail.com)  
-- 💼 **LinkedIn:** [Marc Morla Maimó](https://www.linkedin.com/in/marc-morla-maimó)  
 
 ---
 
