@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/marcmorlaaa">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola%2C+bienvenido+a+mi+perfil+de+GitHub;Soy+Marc+Morla+Maimó;Estudiante+de+Ingeniería+Informática;Apasionado+por+la+IA+y+la+programación;Amante+de+Linux+y+del+café+☕">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola%2C+bienvenido+a+mi+perfil+de+GitHub;Soy+Marc+Morla+Maimó;Estudiante+de+Ingeniería+Informática;Apasionado+por+la+IA+y+la+programación;Amante+del+café+☕">
   </a>
 </p>
 
@@ -57,9 +57,9 @@
 
 | 🚀 Proyecto | Descripción | 🧰 Tecnologías |
 |--------------|-------------|----------------|
-| [💾 File System SO](https://github.com/marcmorlaaa) | Simulación de planificación y gestión de ficheros. | C / Linux |
-| [📦 Juego de Hundir la Flota en JAVA](https://github.com/marcmorlaaa) | Mitico Juego de Hundir la Flota. | Java |
-| [🤖 Juego en Ensamblador Ascend Galaxy](https://github.com/marcmorlaaa) | Juego de Nave Espacial VS Enemigos. | Easy 68k |
+| [💾 File System](https://github.com/marcmorlaaa) | Simulación de planificación y gestión de ficheros. | C / Linux |
+| [📦 Hundir la Flota](https://github.com/marcmorlaaa) | Mitico Juego de Hundir la Flota. | Java |
+| [🤖 Ascend Galaxy](https://github.com/marcmorlaaa) | Juego de Nave Espacial VS Enemigos. | Easy 68k |
 
 ---
 
