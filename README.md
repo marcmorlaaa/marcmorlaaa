@@ -1,23 +1,25 @@
-<h1 align="center">👋 ¡Hola! Soy <strong>Marc Morla Maimó</strong></h1>
+<h1 align="center">👨‍💻 ¡Hola! Soy <strong>Marc Morla Maimó</strong></h1>
 
 <p align="center">
-  🎓 Estudiante de <strong>Ingeniería Informática</strong> en la <strong>Universitat de les Illes Balears (UIB)</strong>.<br>
-  💡 Me apasiona entender cómo funcionan las cosas por dentro, crear soluciones útiles y aprender algo nuevo cada día.
+  Estudiante de <strong>Ingeniería Informática</strong> en la <strong>Universitat de les Illes Balears (UIB)</strong>.<br>
+  Apasionado por la tecnología, el aprendizaje constante y el desarrollo de soluciones que marquen la diferencia.
 </p>
 
 ---
 
-## 🚀 Sobre mí
+## 🌍 Un poco sobre mí
 
-- 🧠 Interesado en **Inteligencia Artificial**.  
-- 💻 Me gusta trabajar con **Java** y **Python**.
-- 🐧 Uso **Linux** como entorno secundario y disfruto explorando sus herramientas y comandos.  
-- 🤝 Siempre con ganas de colaborar y compartir conocimientos con otros desarrolladores.  
-- 🌱 Aprendiendo constantemente, sin miedo a romper cosas (¡así es como se aprende de verdad!).
+Soy una persona curiosa por naturaleza, con gran interés en cómo funcionan los sistemas por dentro y en cómo optimizar cada línea de código.  
+Disfruto aprendiendo nuevas tecnologías, explorando Linux y compartiendo conocimientos con otros desarrolladores.
+
+- 🤖 Me atrae el mundo de la **Inteligencia Artificial**.  
+- 💻 Trabajo principalmente con **Java** y **Python**.  
+- 🐧 Uso **Linux** de forma habitual para mis proyectos y prácticas.  
+- 🧩 Siempre busco mejorar, colaborar y asumir nuevos retos.  
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## ⚙️ Tecnologías que utilizo
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
@@ -39,29 +41,29 @@
 
 ---
 
-## 📚 Actualmente aprendiendo
+## 📘 En lo que estoy trabajando actualmente
 
-- 🧵 **Programación concurrente y gestión de procesos** en Java, C, ADA,...  
-- ⚙️ **Estructuras de datos y algoritmos** en Java y C.  
-- 🗄️ **Bases de datos relacionales** con SQL.  
-- 🤖 Introducción a la **Inteligencia Artificial** y agentes inteligentes con Python.  
-- 🧩 Buenas prácticas de desarrollo y control de versiones con Git y GitHub.
+- 🧵 **Procesos, concurrencia y sincronización** en C, Java y ADA.  
+- ⚙️ **Diseño de estructuras de datos y algoritmos eficientes**.  
+- 🗄️ **Gestión y consultas de bases de datos SQL**.  
+- 🤖 **Introducción a la IA**: agentes, búsqueda y razonamiento.  
+- 🧠 **Control de versiones y desarrollo colaborativo** con Git y GitHub.  
 
 ---
 
-## 💬 Objetivos
+## 🎯 Metas personales
 
-- 💼 Mejorar mis habilidades para trabajar en **proyectos colaborativos**.  
-- 🧠 Aprender más sobre **optimización de código** y **diseño de sistemas eficientes**.  
-- 🚀 Participar en proyectos **open source** y aportar mi granito de arena a la comunidad.  
+- 🤝 Participar activamente en **proyectos colaborativos**.  
+- 🧩 Profundizar en **optimización y diseño de software escalable**.  
+- 🚀 Contribuir a **proyectos open source** y seguir creciendo como desarrollador.  
 
 ---
 
 ## 📊 Mis estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcmorlaaa&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcmorlaaa&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcmorlaaa&show_icons=true&theme=github_dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcmorlaaa&layout=compact&theme=github_dark" height="150" />
 </div>
 
 ---
@@ -69,14 +71,14 @@
 ## 🕓 Actividad reciente
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcmorlaaa&theme=tokyo-night&area=true" height="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcmorlaaa&theme=github-compact&area=true" height="300" />
 </div>
 
 ---
 
-## 📫 Contacto
+## 📫 Cómo contactarme
 
-- ✉️ **Correo:** [marcmorlamaimo@gmail.com](mailto:marcmorlamaimo@gmail.com)  
+📧 [marcmorlamaimo@gmail.com](mailto:marcmorlamaimo@gmail.com)
 
 ---
 
@@ -84,9 +86,8 @@
   <img src="https://komarev.com/ghpvc/?username=marcmorlaaa&color=blue&label=Visitas+al+perfil" />
 </div>
 
-<br>
+---
 
 <p align="center">
-  <em>"El código perfecto no existe, pero aprender a mejorarlo cada día es lo que lo hace interesante."</em>
+  <em>“No se trata de escribir código perfecto, sino de aprender algo nuevo cada vez que lo intentas.”</em>
 </p>
-
