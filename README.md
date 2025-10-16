@@ -1,93 +1,93 @@
-<h1 align="center">👨‍💻 ¡Hola! Soy <strong>Marc Morla Maimó</strong></h1>
+<h3 align="center">
+  ¡Bienvenido al perfil de <strong>Marc Morla Maimó</strong>!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 <p align="center">
-  Estudiante de <strong>Ingeniería Informática</strong> en la <strong>Universitat de les Illes Balears (UIB)</strong>.<br>
-  Apasionado por la tecnología, el aprendizaje constante y el desarrollo de soluciones que marquen la diferencia.
+  <a href="https://github.com/marcmorlaaa">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola%2C+bienvenido+a+mi+perfil+de+GitHub;Soy+Marc+Morla+Maimó;Estudiante+de+Ingeniería+Informática;Apasionado+por+la+IA+y+la+programación;Amante+de+Linux+y+del+café+☕">
+  </a>
 </p>
 
 ---
 
-## 🌍 Un poco sobre mí
-
-Soy una persona curiosa por naturaleza, con gran interés en cómo funcionan los sistemas por dentro y en cómo optimizar cada línea de código.  
-Disfruto aprendiendo nuevas tecnologías, explorando Linux y compartiendo conocimientos con otros desarrolladores.
-
-- 🤖 Me atrae el mundo de la **Inteligencia Artificial**.  
-- 💻 Trabajo principalmente con **Java** y **Python**.  
-- 🐧 Uso **Linux** de forma habitual para mis proyectos y prácticas.  
-- 🧩 Siempre busco mejorar, colaborar y asumir nuevos retos.  
-
----
-
-## ⚙️ Tecnologías que utilizo
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
+
+# 💫 Sobre mí :
+🎓 Actualmente estudio **Ingeniería Informática** en la **Universitat de les Illes Balears (UIB)**.  
+💡 Me encanta descubrir cómo funcionan las cosas desde dentro y crear soluciones que aporten valor.  
+🐧 Uso **Linux** como entorno de desarrollo secundario y disfruto aprendiendo con la terminal.  
+💻 Trabajo principalmente con **Java**, **C** y **Python**.  
+🚀 Siempre busco proyectos donde pueda **aprender, colaborar y mejorar**.
+
+---
+
+## 🌐 Redes y contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-morla-maimó) 
+[![Gmail](https://img.shields.io/badge/Correo-D14836?logo=gmail&logoColor=white)](mailto:marcmorlamaimo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/marcmorlaaa)
+
+---
+
+# 💻 Tecnologías y herramientas
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+
+---
+
+# 📚 Actualmente aprendiendo
+
+🔹 **Programación concurrente y procesos** en Java, C y Ada.  
+🔹 **Estructuras de datos y algoritmos**.  
+🔹 **Bases de datos relacionales** con SQL.  
+🔹 **Inteligencia Artificial** y agentes inteligentes con Python.  
+🔹 Buenas prácticas de desarrollo con **Git** y **control de versiones**.
+
+---
+
+# 🧩 Proyectos destacados
+
+| 🚀 Proyecto | Descripción | 🧰 Tecnologías |
+|--------------|-------------|----------------|
+| [💾 Planificador de procesos SO](https://github.com/marcmorlaaa) | Simulación de planificación y gestión de procesos. | C / Linux |
+| [📦 Sistema de colas en Java](https://github.com/marcmorlaaa) | Implementación de colas genéricas con comparadores. | Java |
+| [🤖 Mini Agente Inteligente](https://github.com/marcmorlaaa) | Agente simple que toma decisiones según su entorno. | Python |
+
+---
+
+# 📊 Estadísticas de GitHub
+
+![](https://github-readme-stats.vercel.app/api?username=marcmorlaaa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=marcmorlaaa&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcmorlaaa&theme=tokyonight&hide_border=false&layout=compact)
+
+---
+
+## 🏆 Logros en GitHub
+![](https://github-profile-trophy.vercel.app/?username=marcmorlaaa&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### ✍️ Frase que me representa
+> “El mejor aprendizaje viene de romper cosas, entender por qué fallaron y volver a construirlas mejor.”
+
+---
+
+![](https://forthebadge.com/images/badges/powered-by-coffee.svg)
+![](https://forthebadge.com/images/badges/built-with-love.svg)
+![](https://forthebadge.com/images/badges/uses-brains.svg)
+
+---
+
+![](https://komarev.com/ghpvc/?username=marcmorlaaa&label=Visitas+al+perfil&color=blue)
+
 </div>
-
----
-
-## 📘 En lo que estoy trabajando actualmente
-
-- 🧵 **Procesos, concurrencia y sincronización** en C, Java y ADA.  
-- ⚙️ **Diseño de estructuras de datos y algoritmos eficientes**.  
-- 🗄️ **Gestión y consultas de bases de datos SQL**.  
-- 🤖 **Introducción a la IA**: agentes, búsqueda y razonamiento.  
-- 🧠 **Control de versiones y desarrollo colaborativo** con Git y GitHub.  
-
----
-
-## 🎯 Metas personales
-
-- 🤝 Participar activamente en **proyectos colaborativos**.  
-- 🧩 Profundizar en **optimización y diseño de software escalable**.  
-- 🚀 Contribuir a **proyectos open source** y seguir creciendo como desarrollador.  
-
----
-
-## 📊 Mis estadísticas en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcmorlaaa&show_icons=true&theme=github_dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcmorlaaa&layout=compact&theme=github_dark" height="150" />
-</div>
-
----
-
-## 🕓 Actividad reciente
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcmorlaaa&theme=github-compact&area=true" height="300" />
-</div>
-
----
-
-## 📫 Cómo contactarme
-
-📧 [marcmorlamaimo@gmail.com](mailto:marcmorlamaimo@gmail.com)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=marcmorlaaa&color=blue&label=Visitas+al+perfil" />
-</div>
-
----
-
-<p align="center">
-  <em>“No se trata de escribir código perfecto, sino de aprender algo nuevo cada vez que lo intentas.”</em>
-</p>
