@@ -14,7 +14,7 @@
 
 <div align="center">
 
-# 💫 Sobre mí :
+# 💫 Sobre mí:
 🎓 Actualmente estudio **Ingeniería Informática** en la **Universitat de les Illes Balears (UIB)**.  
 💡 Me encanta descubrir cómo funcionan las cosas desde dentro y crear soluciones que aporten valor.  
 🐧 Uso **Linux** como entorno de desarrollo secundario y disfruto aprendiendo con la terminal.  
