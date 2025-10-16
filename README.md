@@ -85,17 +85,16 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=marcmorlaaa&color=brightblue&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=diegoMalagrida&color=brightblue&label=Profile+Views" />
 </div>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcmorlaaa/marcmorlaaa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcmorlaaa/marcmorlaaa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/marcmorlaaa/marcmorlaaa/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegoMalagrida/diegoMalagrida/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegoMalagrida/diegoMalagrida/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diegoMalagrida/diegoMalagrida/output/pacman-contribution-graph.svg">
 </picture>
-
 
 <!--
 **marcmorlaaa/marcmorlaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
