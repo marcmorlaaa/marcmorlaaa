@@ -1,4 +1,30 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Marc Morlà
+
+🎓 Estudiante de Ingeniería Informática  
+💻 Apasionado por el desarrollo y el aprendizaje
+
+---
+
+### 🔧 Tecnologías que uso:
+- Java ☕
+- C 
+- Linux 🐧
+- Easy 68k
+- Python
+- Git & GitHub
+    
+---
+
+### 📈 Mis estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=marcmorlaaa&show_icons=true&theme=tokyonight)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=marcmorlaaa&layout=compact&theme=tokyonight)
+
+
+---
+
+### 📫 Cómo contactarme
+📧 [marcmorlamaimo@gmail.com](mailto:marcmorlamaimo@gmail.com)
 
 <!--
 **marcmorlaaa/marcmorlaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
