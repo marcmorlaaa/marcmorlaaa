@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <script type="text/javascript">
+        const href = window.location.href.replace(/fitxers\/(?:plantilles|generats)\/.+/, 'fitxers/');
+        const base = document.createElement('base');
+        base.setAttribute('href', href);
+        document.head.appendChild(base);
+    </script>
+</head>
+
+<body>
+    <center>
+        <table style="max-width: 400px">
+            <tr>
+                <th> <img src="medis/tucmuntu1.jpg" /> </th>
+            </tr>
+            <tr>
+                <td>
+                    Hola #NOMBRE#.
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Te invito a mi fiesta de aniversario, que se
+                    celebrara en Tucmuntu dia 31 de febrero de 3456.
+                    Traete tu telefono cuyo numero es: #NUM-TEL# ya
+                    que haremos un juego con vuestros telefonos.
+                </td>
+            </tr>
+            <tr>
+                <th> <img src="medis/tucmuntu2.jpg" /> </th>
+            </tr>
+        </table>
+    </center>
+
+</body>
+
+</html>
