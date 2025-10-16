@@ -40,7 +40,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
 
@@ -58,9 +57,9 @@
 
 | 🚀 Proyecto | Descripción | 🧰 Tecnologías |
 |--------------|-------------|----------------|
-| [💾 Planificador de procesos SO](https://github.com/marcmorlaaa) | Simulación de planificación y gestión de procesos. | C / Linux |
-| [📦 Sistema de colas en Java](https://github.com/marcmorlaaa) | Implementación de colas genéricas con comparadores. | Java |
-| [🤖 Mini Agente Inteligente](https://github.com/marcmorlaaa) | Agente simple que toma decisiones según su entorno. | Python |
+| [💾 File System SO](https://github.com/marcmorlaaa) | Simulación de planificación y gestión de ficheros. | C / Linux |
+| [📦 Juego de Hundir la Flota en JAVA](https://github.com/marcmorlaaa) | Mitico Juego de Hundir la Flota. | Java |
+| [🤖 Juego en Ensamblador Ascend Galaxy](https://github.com/marcmorlaaa) | Juego de Nave Espacial VS Enemigos. | Easy 68k |
 
 ---
 
