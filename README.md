@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/marcmorlaaa">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=  Hola%2C+bienvenido+a+mi+perfil+de+GitHub;Soy+Marc+Morla+Maimó;Estudiante+de+Ingeniería+Informática;Apasionado+por+la+IA+y+la+programación;Amante+del+café+☕">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola%2C+bienvenido+a+mi+perfil+de+GitHub;Soy+Marc+Morla+Maimó;Estudiante+de+Ingeniería+Informática;Apasionado+por+la+IA+y+la+programación;Amante+del+café+☕">
   </a>
 </p>
 
