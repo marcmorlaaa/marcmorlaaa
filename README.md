@@ -77,11 +77,4 @@
 
 ![](https://komarev.com/ghpvc/?username=marcmorlaaa&label=Visitas+al+perfil&color=blue)
 
----
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/marcmorlaaa/marcmorlaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
 </div>
