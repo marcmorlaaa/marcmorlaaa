@@ -64,19 +64,6 @@
 
 ---
 
-# 📊 Estadísticas de GitHub
-
-![](https://github-readme-stats.vercel.app/api?username=marcmorlaaa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=marcmorlaaa&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcmorlaaa&theme=tokyonight&hide_border=false&layout=compact)
-
----
-
-## 🏆 Logros en GitHub
-![](https://github-profile-trophy.vercel.app/?username=marcmorlaaa&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 ### ✍️ Frase que me representa
 > “El código perfecto no existe, pero aprender a mejorarlo cada día es lo que lo hace interesante.”
 
