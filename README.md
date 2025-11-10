@@ -1,5 +1,5 @@
 <h3 align="center">
-  ¡Hola, Soy Marc Morlà Maimó, me encanta mamar pene de Diego</strong>!
+  ¡Hola, Soy Marc Morlà Maimó</strong>!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
